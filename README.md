@@ -38,13 +38,13 @@ I'm a full-stack developer specializing in Vue.js ecosystems and scalable backen
 - Tech Stack: PHP, NestJs, MySQL, MongoDB, TypeScript
 
 ### Frontend Developer (Dec 2022 - Dec 2023)
-**Koffiesoft, Belitung**
+**Koffiesoft, Surabaya**
 - Built responsive and interactive user interfaces
 - Collaborated with design teams for pixel-perfect layouts
 - Tech Stack: Vue.js, Nuxt 3, TypeScript
 
 ### Frontend Developer (Dec 2021 - Aug 2022)
-**Indigo Studio, Bandung**
+**Indigo Studio, Belitung**
 - Developed responsive frontend solutions
 - API integration with backend teams
 - Collaborated with UI/UX designers
