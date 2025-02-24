@@ -23,20 +23,40 @@ I'm a full-stack developer specializing in Vue.js ecosystems and scalable backen
 
 ## 💼 Professional Experience
 
-### Senior Developer (2022 - Present)
-**Surabaya (Remote)**
-- Led development teams
-- Full-stack development with modern technologies
-- Tech Stack: Vue.js, Nuxt 3, NestJS, TypeScript, MySQL, MongoDB
+### Software Engineer (Jul 2024 - Present)
+**Koffiesoft, Surabaya (Remote)**
+- Leading development teams in full-stack projects
+- Architecting and implementing scalable solutions
+- Mentoring junior developers
+- Tech Stack: Vue.js, Nuxt 3, NestJs, TypeScript
 
-### Freelance Developer (2021 - Present)
-**Remote**
-- End-to-end web solutions
-- Team leadership
-- Tech Stack: Vue.js, Nuxt 3, TailwindCSS, TypeScript, NestJS, PostgreSQL, MySQL, Laravel
+### Backend Developer (Jan 2024 - Jun 2024)
+**Koffiesoft, Surabaya (Remote)**
+- Developing and maintaining server-side applications
+- Implementing RESTful APIs and database solutions
+- System performance and database optimization
+- Tech Stack: PHP, NestJs, MySQL, MongoDB, TypeScript
+
+### Frontend Developer (Dec 2022 - Dec 2023)
+**Koffiesoft, Belitung**
+- Built responsive and interactive user interfaces
+- Collaborated with design teams for pixel-perfect layouts
+- Tech Stack: Vue.js, Nuxt 3, TypeScript
+
+### Frontend Developer (Dec 2021 - Aug 2022)
+**Indigo Studio, Bandung**
+- Developed responsive frontend solutions
+- API integration with backend teams
+- Collaborated with UI/UX designers
+- Tech Stack: Vue.js, Nuxt 3, TailwindCSS, TypeScript, MySQL, Laravel
 
 ## 📚 Education & Certification
-- **Information Systems** (2017 - 2021) - Bandung
+
+### Information Systems (2017 - 2021)
+**Universitas Komputer Indonesia, Bandung**
+- Focus on information systems and information technology
+
+### Certification
 - **The Nuxt 3 Bootcamp - The Complete Developer Guide** (Aug 2022)
 
 ## 📝 Latest Blog Posts
