@@ -60,8 +60,8 @@ I'm a full-stack developer specializing in Vue.js ecosystems and scalable backen
 - **The Nuxt 3 Bootcamp - The Complete Developer Guide** (Aug 2022)
 
 ## 📝 Latest Blog Posts
-- [Resource-Based Naming: Best Practices for RESTful API Design](https://candraherdiana.com/blog/resource-based-naming)
-- [The Power of Nuxt3: Revolutionizing Modern Web Development](https://candraherdiana.com/blog/power-of-nuxt3)
+- [Resource-Based Naming: Best Practices for RESTful API Design](https://candraherdiana.com/blog/resource-based-naming-best-practices-for-restful-api-design)
+- [The Power of Nuxt3: Revolutionizing Modern Web Development](https://candraherdiana.com/blog/the-power-of-nuxt3-revolutionizing-modern-web-development)
 
 ## 📊 GitHub Stats
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cand-99&layout=compact&hide=css,html)](https://github.com/cand-99/github-readme-stats)
