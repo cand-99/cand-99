@@ -23,12 +23,20 @@ I'm a full-stack developer specializing in Vue.js ecosystems and scalable backen
 
 ## 💼 Professional Experience
 
-### Software Engineer (Jul 2024 - Present)
+### Frontend Developer (Apr 2025 - Present)
+**Rolling Glory, Surabaya (Remote)**
+- Building and maintaining responsive and interactive user interfaces
+- Collaborating with design teams to implement pixel-perfect layouts
+- Developing modern web applications
+- Tech Stack: Next.js, React
+
+### Software Engineer (Jul 2024 - Feb 2025)
 **Koffiesoft, Surabaya (Remote)**
 - Leading development teams in full-stack projects
 - Architecting and implementing scalable solutions
 - Mentoring junior developers
-- Tech Stack: Vue.js, Nuxt 3, NestJs, TypeScript
+- Overseeing technical decisions
+- Tech Stack: Vue.js, Nuxt 3, NestJs, TypeScript, MongoDB, MySQL
 
 ### Backend Developer (Jan 2024 - Jun 2024)
 **Koffiesoft, Surabaya (Remote)**
