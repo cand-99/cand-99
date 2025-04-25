@@ -24,7 +24,7 @@ I'm a full-stack developer specializing in Vue.js ecosystems and scalable backen
 ## 💼 Professional Experience
 
 ### Frontend Developer (Apr 2025 - Present)
-**Rolling Glory, Surabaya (Remote)**
+**Rolling Glory, Bandung (Remote)**
 - Building and maintaining responsive and interactive user interfaces
 - Collaborating with design teams to implement pixel-perfect layouts
 - Developing modern web applications
